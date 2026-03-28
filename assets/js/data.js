@@ -229,12 +229,12 @@ Choose Playwright for large-scale enterprise automation with cross-browser and m
     },
     {
       id: 2,
-      title: "EuroSTAR Software Testing Conference 2026",
+      title: "2026 EuroSTAR Software Testing Conference",
       type: "Conference",
       mode: "In-Person",
       date: "June 15-18, 2026",
       location: "Oslo, Norway",
-      desc: "Europe's premier software testing conference. Theme: 'Testing at its Best'. Over 500 QA professionals from 40+ countries.",
+      desc: "Europe's Largest Software Testing Conference. Theme: 'Testing at its Best'. Featuring 50+ world-class speakers, deep dives into AI, Playwright, and API testing.",
       tags: ["Software Testing", "EuroSTAR", "Conference"],
       img: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=800&auto=format&fit=crop",
       priceType: "Paid", past: false, link: "https://conference.eurostarsoftwaretesting.com/conference/2026/programme/"
@@ -244,24 +244,24 @@ Choose Playwright for large-scale enterprise automation with cross-browser and m
       title: "Strategink Visionary Awards 2026",
       type: "Award Ceremony",
       mode: "In-Person",
-      date: "August 2026",
-      location: "Mumbai, India",
-      desc: "Celebrating pioneers transforming industries through innovation, resilience, and strategic excellence. Open for nominations.",
+      date: "June 13, 2026",
+      location: "India (Flagship Platform)",
+      desc: "Celebrating pioneers transforming industries through innovation, resilience, and strategic excellence. Nominate IT leaders driving future-readiness.",
       tags: ["Leadership", "Innovation", "Awards"],
       img: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=800&auto=format&fit=crop",
-      priceType: "Paid", past: false, link: "https://www.strategink.com/vision-2026/award-nomination/?urlid=Response"
+      priceType: "Free", past: false, link: "https://www.strategink.com/vision-2026/award-nomination/?urlid=Response"
     },
     {
       id: 4,
-      title: "Red Hat Summit Field Events",
+      title: "Red Hat Summit and AnsibleFest 2026",
       type: "Enterprise Event",
-      mode: "Hybrid",
-      date: "September 2026",
-      location: "Global — Multiple Cities",
-      desc: "Red Hat field events across major cities covering open source innovation, hybrid cloud, and DevOps at scale.",
+      mode: "In-Person",
+      date: "May 11–14, 2026",
+      location: "Atlanta, GA, USA",
+      desc: "The premier open source technology event. Connect with Red Hat experts, learn about Ansible automation, and explore the future of hybrid cloud.",
       tags: ["Open Source", "Red Hat", "Cloud"],
       img: "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?q=80&w=800&auto=format&fit=crop",
-      priceType: "Free", past: false, link: "https://reg.experiences.redhat.com/flow/redhat/3642950/fieldeventsregapproveform"
+      priceType: "Paid", past: false, link: "https://www.redhat.com/en/summit"
     },
     {
       id: 5,
